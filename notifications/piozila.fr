@@ -1,1 +1,1 @@
-{"id": "20251019", "message" : "Merci d'avoir téléchargé Piozila"}
+{"id": "20251023", "message" : "Une nouvelle version avec quelques corrections vient de sortir. Moins de publicité."}

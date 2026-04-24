@@ -1,1 +1,1 @@
-{"id": "20250915", "message" : "Tonga sosa eto amin'ny version vaovaon'ny kiteny"}
+{"id": "20240424", "message" : "Rehefa zatra ny lalao Kiteny ianao dia afaka manandrana ny TenyTris koa. Hitanao ao amin'ny store mahazatra."}
